@@ -1,0 +1,159 @@
+
+Article{2017arXiv171105082S}  &
+A Comparative Case Study on the Impact of Test-Driven Development on Program Design and Test Coverage&
+2017&
+Siniaalto, Maria and Abrahamsson, Pekka &
+journal = {arXiv.org},
+eprint = {1711.05082},
+eprinttype = {arxiv},
+eprintclass = {cs.SE},
+pages = {arXiv:1711.05082},
+month = nov,
+annote = {This is author's version of the published paper. The copyright holder's version is accessible at http://ieeexplore.ieee.org/abstract/document/4343755/}\\
+\hline
+
+Article{2020arXiv200407524R} &
+Results from a replicated experiment on the affective reactions of novice developers when applying test-driven development &
+2020 &
+Romano, Simone and Scanniello, Giuseppe and Baldassarre, Maria Teresa and Fucci, Davide and Caivano, Danilo &
+journal = {arXiv.org},
+eprint = {2004.07524},
+eprinttype = {arxiv},
+eprintclass = {cs.SE},
+pages = {arXiv:2004.07524},
+month = apr,
+annote = {XP2020}\\
+\hline
+
+Article{Anonymous:2006va} &
+On the Influence of Test-Driven Development on Software Design &
+2006 &
+ &
+pages = {1--8},
+month = mar\\
+\hline
+
+
+Article{Anonymous:2007ww} &
+A Leveled Examination of Test-Driven Development Acceptance &
+2007 &
+ &
+pages = {1--4},
+month = jan\\
+\hline
+
+
+Article{Anonymous:2006um} &
+Evaluating the Efficacy of Test-Driven Development: Industrial Case Studies &
+2006 &
+ &
+pages = {1--8},
+month = jul\\
+\hline
+
+Article{Canfora:2006vr} &
+LNCS 4034 - Productivity of Test Driven Development: A Controlled Experiment with Professionals &
+2006&
+Canfora, Gerardo and Cimitile, Aniello and Garcia, Felix and Piattini, Mario and Visaggio, and Corrado Aaron &
+pages = {1--6},
+month = apr\\
+\hline
+
+
+Article{Dell:2003wa}  &
+Implications of Test-Driven Development A Pilot Study &
+2003&
+Dell, New &
+pages = {1--2},
+month = aug\\
+\hline
+
+
+Article{Choma:2019wa} &
+An Empirical Study of Test-Driven Development vs. Test-Last Development Using Eye Tracking. &
+2019&
+Choma, Joelma and Guerra, Eduardo M and da Silva, Tiago Silva and Albuquerque, Thomas and Albuquerque, Vanessa G and Zaina, Luciana Martinez &
+journal = {WBMA},\\
+\hline
+
+
+Article{Tosun:2018ww} &
+On the effectiveness of unit tests in test-driven development. &
+2018&
+Tosun, Ayse and Ahmed, Muzamil and Turhan, Burak and Juristo, Natalia &
+journal = {ICSSP},\\
+\hline
+
+
+Article{Parodi:2016wg} &
+Comparing technical debt in student exercises using test driven development, test last and ad hoc programming. &
+2016&
+Parodi, Eugenia and Matalonga, Santiago and Macchi, Dario and Solari, Martin &
+journal = {CLEI},\\
+\hline
+
+
+Article{Maximilien:fq} &
+Assessing test-driven development at IBM - IEEE Conference Publication &
+2003&
+Maximilien, E M and on, L Williams 25th International Conference&
+journal = {ieeexplore.ieee.org\\
+\hline
+
+Article{Munir:2014wg} &
+An experimental evaluation of test driven development vs. test-last development with industry professionals. &
+2014&
+Munir, Hussan and Wnuk, Krzysztof and Petersen, Kai and Moayyed, Misagh &
+journal = {EASE},\\
+\hline
+
+Article{Williams:wl} &
+Test-driven development as a defect-reduction practice &
+2003 &
+Williams, L and Software, EM Maximilien Symposium on &
+journal = {ieeexplore.ieee.org\\
+\hline
+
+Article{Janzen:wl} &
+Does test-driven development really improve software design quality? &
+2008 &
+Janzen, D and Software, H Saiedian Ieee &
+journal = {ieeexplore.ieee.org\\
+\hline
+
+Article{Nagappan:ty} &
+Realizing quality improvement through test driven development: results and experiences of four industrial teams &
+2008 &
+Nagappan, N and Maximilien, E M and Software, T Bhat Empirical &
+journal = {Springer}\\
+\hline
+
+Article{Geras:wd} &
+A prototype empirical evaluation of test driven development &
+2004 &
+Geras, A and Smith, M and on, J Miller 10th International Symposium &
+journal = {ieeexplore.ieee.org}\\
+\hline
+
+Proceedings{Anonymous:O7UPDeq-} &
+A prototype empirical evaluation of test driven development - Software Metrics, 2004. Proceedings. 10th International Symposium on &
+2001 &
+-& 
+month = aug\\
+\hline
+
+Proceedings{Vu:2009do} &
+Evaluating Test-Driven Development in an Industry-Sponsored Capstone Project &
+2009 &
+- &
+publisher = {IEEE},
+month = mar\\
+\hline
+
+
+Book{Bain:2016tw} &
+Sustainable Test-Driven Development &
+2016&
+Bain, Scott and Kolsky, Amir &
+Addison-Wesley Professional &
+month = mar\\
